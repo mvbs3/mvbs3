@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Victor</h1>
-<h3 align="center">A student of computer engineer from UFPE</h3>
+<h3 align="center">Electronic Technician, Computer Engineer, Master Degree, Computer Science student At UFPE</h3>
 
 - 🔭 I’m currently working on **Projeto Cin-Motorola**
 
